@@ -1,0 +1,15 @@
+CONSTRUCTION COST ANALYSIS – EXECUTIVE SUMMARY
+Dataset: Illustrative simulated BOQ dataset; not a live client project.
+
+Total budget: ₦143,072,100.00
+Total actual cost: ₦155,978,700.00
+Net variance: ₦12,906,600.00 (9.02%)
+Items over budget: 34
+Items under budget: 1
+Data-quality issues identified in deliberately flawed QA sample: 5
+
+Interpretation:
+A positive variance indicates actual cost above budget. A negative variance indicates
+actual cost below budget. Section-level and item-level outputs should be reviewed
+alongside scope, measurement basis, procurement records and approved variations.
+This analysis is a portfolio demonstration, not a valuation or audit certificate.
